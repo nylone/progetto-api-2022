@@ -1,7 +1,7 @@
 main: main.o string-map.o string-hasher.o
 	gcc -o main.out build-files/main.o build-files/string-map.o build-files/string-hasher.o
 
-main.o: main.c libraries/string-map.h
+main.o: main.c libraries/string-map.h libraries/string-hasher.h
 	gcc -o build-files/main.o -c main.c
 
 string-map.o: libraries/string-map.c libraries/string-map.h libraries/string-hasher.h

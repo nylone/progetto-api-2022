@@ -2,8 +2,8 @@
 
 ### Useful info (only in italian)
 
-- Rules [qui](https://martinenghi.faculty.polimi.it/courses/api/ProvaFinale2022.pdf)
-- Assignment [qui](https://martinenghi.faculty.polimi.it/courses/api/ProvaFinale2022_tema.pdf)
+- Rules [here](https://martinenghi.faculty.polimi.it/courses/api/ProvaFinale2022.pdf)
+- Assignment [here](https://martinenghi.faculty.polimi.it/courses/api/ProvaFinale2022_tema.pdf)
 
 ### Building and running the program
 
