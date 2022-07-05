@@ -1,6 +1,22 @@
-## Progetto di Algoritmi e Strutture Dati - A.A.: 2021/2022 @ PoliMi
+## Algorithms and Data Structures - 2021/2022 @ PoliMi
 
-### Info utili
-- Verificatore [qui](https://dum-e.deib.polimi.it/)
-- Regole progetto [qui](https://martinenghi.faculty.polimi.it/courses/api/ProvaFinale2022.pdf)
-- Descrizione progetto [qui](https://martinenghi.faculty.polimi.it/courses/api/ProvaFinale2022_tema.pdf)
+### Useful info (only in italian)
+
+- Rules [qui](https://martinenghi.faculty.polimi.it/courses/api/ProvaFinale2022.pdf)
+- Assignment [qui](https://martinenghi.faculty.polimi.it/courses/api/ProvaFinale2022_tema.pdf)
+
+### Building and running the program
+
+``` sh 
+    # copy the git repo
+    git clone https://github.com/nylone/progetto-api-2022.git
+
+    # cd into the repo
+    cd progetto-api-2022.git
+
+    # build using gcc and make
+    make
+
+    # run the application
+    ./main.out
+```
