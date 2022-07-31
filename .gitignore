@@ -1,6 +1,3 @@
-# VSCode
-.vscode
-
 # Prerequisites
 *.d
 
@@ -10,9 +7,9 @@
 *.obj
 *.elf
 
-# Linker output
+# Linker open_testcases
 *.ilk
-*.map
+*.set
 *.exp
 
 # Precompiled Headers
